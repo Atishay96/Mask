@@ -1,0 +1,20 @@
+.bg1
+{
+	font-family: Times;
+	font-color:white;
+	background-color: grey;
+	font-size: 40px;
+	color:white;
+	text-align: center;
+}
+#sel
+{
+	font-size: 20px;
+	width:20%;
+	height: 50px;
+}
+.bg2
+{
+	background-color: white;
+	color:black;
+}
